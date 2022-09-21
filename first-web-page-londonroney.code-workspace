@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"name": "first-web-page-londonroney",
+		"path": "../../Documents/IS120/first-web-page-londonroney"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "first-web-page-londonroney"
+  }
+}
